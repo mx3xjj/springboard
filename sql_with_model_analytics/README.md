@@ -7,7 +7,7 @@ Including 3 cases:
     - Analytics Visualization: <https://modeanalytics.com/mx3xjj/reports/316704b7713f>
 2. Understanding Search Functionality
     - Problem Introduction: <https://community.modeanalytics.com/sql/tutorial/understanding-search-functionality/>
-    - Analytics Visualization: <https://modeanalytics.com/mx3xjj/reports/ca4cbf270a39>
+    - Analytics Visualization: <https://modeanalytics.com/mx3xjj/reports/ca4cbf270a39> (under development)
 3. Validating A/B Test Results
     - Problem Introduction: <https://community.modeanalytics.com/sql/tutorial/validating-ab-test-results/>
-    - Analytics Visualization: <https://modeanalytics.com/mx3xjj/reports/6052ec6f22e8>
+    - Analytics Visualization: <https://modeanalytics.com/mx3xjj/reports/6052ec6f22e8> (under development)
